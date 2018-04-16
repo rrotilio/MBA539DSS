@@ -1,0 +1,133 @@
+"Sample,LLC",Trial balance,4/15/18,4:31:40 PM,Page 1,,,,,,
+Period,1/1/18,4/15/18,,,,,,,,
+AR/AP Account Info,Doc No,Product line,Department,Project,Date,Voucher,Transaction text,Debit,Credit,Accumulated
+Ledger account,50300,ADVERTISING,,,,,,,,
+1/1/18,,Opening balance,0,0,0,,,,,
+1/12/18,30007143_020,Various Trans Text Here,89.64,0,89.64,,,560,,1
+1/12/18,30007143_020,Various Trans Text Here,"2,500.00",0,"2,589.64",,,560,,1
+1/19/18,30007142_020,Various Trans Text Here,"2,000.00",0,"4,589.64",,,560,,1
+1/25/18,30007155_020,Various Trans Text Here,"1,710.00",0,"6,299.64",,,560,,1
+1/25/18,30007155_020,Various Trans Text Here,568.5,0,"6,868.14",,,560,,1
+1/26/18,30007154_020,Various Trans Text Here,"1,600.00",0,"8,468.14",,,560,,1
+1/26/18,30007154_020,Various Trans Text Here,429,0,"8,897.14",,,560,,1
+1/29/18,30007188_020,Various Trans Text Here,179.2,0,"9,076.34",,,560,,1
+1/29/18,30007188_020,Various Trans Text Here,-60,0,"9,016.34",,,560,,1
+1/31/18,30007189_020,Various Trans Text Here,8.4,0,"9,024.74",,,560,,1
+1/31/18,30007189_020,Various Trans Text Here,162,0,"9,186.74",,,560,,1
+2/1/18,30007190_020,Various Trans Text Here,0,8.4,"9,178.34",,,560,,1
+2/1/18,30007190_020,Various Trans Text Here,0,162,"9,016.34",,,560,,1
+2/14/18,30007215_020,Various Trans Text Here,8.4,0,"9,024.74",,,560,,1
+2/14/18,30007215_020,Various Trans Text Here,"1,200.00",0,"10,224.74",,,560,,1
+2/14/18,30007215_020,Various Trans Text Here,225,0,"10,449.74",,,560,,1
+2/26/18,30007242_020,Various Trans Text Here,103.67,0,"10,553.41",,,560,,1
+2/26/18,30007242_020,Various Trans Text Here,641.97,0,"11,195.38",,,560,,1
+2/28/18,30007239_020,Various Trans Text Here,297.83,0,"11,493.21",,,560,,1
+3/1/18,30007240_020,Various Trans Text Here,0,297.83,"11,195.38",,,560,,1
+3/7/18,30007266_020,Various Trans Text Here,638.14,0,"11,833.52",,,560,,1
+3/19/18,30007315_020,Various Trans Text Here,400.31,0,"12,233.83",,,560,,1
+3/27/18,30007282_020,Various Trans Text Here,"2,000.00",0,"14,233.83",,,560,,1
+3/29/18,30007295_020,Various Trans Text Here,50,0,"14,283.83",,,560,,1
+3/29/18,30007295_020,Various Trans Text Here,157.6,0,"14,441.43",,,560,,1
+3/29/18,30007295_020,Various Trans Text Here,171.72,0,"14,613.15",,,560,,1
+3/29/18,30007295_020,Various Trans Text Here,222.95,0,"14,836.10",,,560,,1
+3/31/18,30007316_020,Various Trans Text Here,535.72,0,"15,371.82",,,560,,1
+4/1/18,30007317_020,Various Trans Text Here,0,535.72,"14,836.10",,,560,,1
+4/6/18,30007345_020,Various Trans Text Here,100,0,"14,936.10",,,560,,1
+4/6/18,30007345_020,Various Trans Text Here,596.06,0,"15,532.16",,,560,,1
+4/15/18,,Closing,"16,536.11","1,003.95","15,532.16",,,,,
+AR/AP Account Info,Doc No,Product line,Department,Project,Date,Voucher,Transaction text,Debit,Credit,Accumulated
+Ledger account,50301,PHOTOGRAPHY,,,,,,,,
+1/1/18,,Opening balance,0,0,0,,,,,
+1/12/18,30007143_020,Various Trans Text Here,99,0,99,,,560,,1
+2/14/18,30007215_020,Various Trans Text Here,99,0,198,,,560,,1
+3/12/18,30007267_020,Various Trans Text Here,62.82,0,260.82,,,560,,1
+3/27/18,30007282_020,Various Trans Text Here,22.09,0,282.91,,,560,,1
+4/15/18,,Closing,282.91,0,282.91,,,,,
+AR/AP Account Info,Doc No,Product line,Department,Project,Date,Voucher,Transaction text,Debit,Credit,Accumulated
+Ledger account,50302,CONTESTS,,,,,,,,
+1/1/18,,Opening balance,0,0,0,,,,,
+"Sample,LLC",Trial balance,4/15/18,4:31:40 PM,Page 2,,,,,,
+Period,1/1/18,4/15/18,,,,,,,,
+4/11/18,30007340_020,Various Trans Text Here,50,0,50,,,560,,1
+4/11/18,30007340_020,Various Trans Text Here,50,0,100,,,560,,1
+4/11/18,30007340_020,Various Trans Text Here,50,0,150,,,560,,1
+4/11/18,30007340_020,Various Trans Text Here,50,0,200,,,560,,1
+4/11/18,30007340_020,Various Trans Text Here,50,0,250,,,560,,1
+4/11/18,30007340_020,Various Trans Text Here,50,0,300,,,560,,1
+4/11/18,30007340_020,Various Trans Text Here,50,0,350,,,560,,1
+4/15/18,,Closing,350,0,350,,,,,
+AR/AP Account Info,Doc No,Product line,Department,Project,Date,Voucher,Transaction text,Debit,Credit,Accumulated
+Ledger account,50800,AUTO EXPENSES,,,,,,,,
+1/1/18,,Opening balance,0,0,0,,,,,
+1/12/18,30007143_020,Various Trans Text Here,171.49,0,171.49,,,500,,1
+1/26/18,30007154_020,Various Trans Text Here,200,0,371.49,,,500,,1
+1/29/18,30007188_020,Various Trans Text Here,88.8,0,460.29,,,500,,1
+2/14/18,30007215_020,Various Trans Text Here,85.1,0,545.39,,,500,,1
+2/14/18,30007215_020,Various Trans Text Here,21.64,0,567.03,,,500,,1
+2/14/18,30007215_020,Various Trans Text Here,20.34,0,587.37,,,500,,1
+4/15/18,,Closing,587.37,0,587.37,,,,,
+AR/AP Account Info,Doc No,Product line,Department,Project,Date,Voucher,Transaction text,Debit,Credit,Accumulated
+Ledger account,50900,GAS & OIL EXPENSE,,,,,,,,
+1/1/18,,Opening balance,0,0,0,,,,,
+1/16/18,30007213_020,Various Trans Text Here,53.85,0,53.85,,,510,,1
+1/26/18,30007154_020,Various Trans Text Here,398.36,0,452.21,,,510,,1
+2/14/18,30007202_020,Various Trans Text Here,560.26,0,"1,012.47",,,510,,1
+2/28/18,30007228_020,Various Trans Text Here,236.14,0,"1,248.61",,,510,,1
+3/12/18,30007267_020,Various Trans Text Here,344.28,0,"1,592.89",,,510,,1
+4/15/18,,Closing,"1,592.89",0,"1,592.89",,,,,
+AR/AP Account Info,Doc No,Product line,Department,Project,Date,Voucher,Transaction text,Debit,Credit,Accumulated
+Ledger account,51200,BANK CHARGES,,,,,,,,
+1/1/18,,Opening balance,0,0,0,,,,,
+1/31/18,30007206_020,Various Trans Text Here,33,0,33,,,500,,1
+2/28/18,30007254_020,Various Trans Text Here,43,0,76,,,500,,1
+3/31/18,30007331_020,Various Trans Text Here,30,0,106,,,500,,1
+4/15/18,,Closing,106,0,106,,,,,
+AR/AP Account Info,Doc No,Product line,Department,Project,Date,Voucher,Transaction text,Debit,Credit,Accumulated
+Ledger account,51500,COMMISSIONS,,,,,,,,
+1/1/18,,Opening balance,0,0,0,,,,,
+1/1/18,30007108_020,Various Trans Text Here,0,257.23,-257.23,,,522,,1
+1/1/18,30007108_020,Various Trans Text Here,0,195.71,-452.94,,,520,,1
+1/12/18,30007164_020,Various Trans Text Here,"1,156.04",0,703.1,,,520,,1
+1/12/18,30007164_020,Various Trans Text Here,410.47,0,"1,113.57",,,522,,1
+"Sample,LLC",Trial balance,4/15/18,4:31:40 PM,Page 3,,,,,,
+Period,1/1/18,4/15/18,,,,,,,,
+1/26/18,30007163_020,Various Trans Text Here,766.67,0,"1,880.24",,,520,,1
+1/26/18,30007163_020,Various Trans Text Here,368.52,0,"2,248.76",,,522,,1
+1/31/18,30007177_020,Various Trans Text Here,"1,922.71",0,"4,171.47",,,520,,1
+1/31/18,30007177_020,Various Trans Text Here,778.99,0,"4,950.46",,,522,,1
+1/31/18,30007198_020,Various Trans Text Here,"1,922.71",0,"6,873.17",,,520,,1
+1/31/18,30007198_020,Various Trans Text Here,778.99,0,"7,652.16",,,522,,1
+2/1/18,30007199_020,Various Trans Text Here,0,"1,922.71","5,729.45",,,520,,1
+2/1/18,30007199_020,Various Trans Text Here,0,778.99,"4,950.46",,,522,,1
+2/1/18,30007178_020,Various Trans Text Here,0,"1,922.71","3,027.75",,,520,,1
+2/1/18,30007178_020,Various Trans Text Here,0,778.99,"2,248.76",,,522,,1
+2/9/18,30007220_020,Various Trans Text Here,821.6,0,"3,070.36",,,520,,1
+2/9/18,30007220_020,Various Trans Text Here,270.19,0,"3,340.55",,,522,,1
+2/23/18,30007221_020,Various Trans Text Here,681.29,0,"4,021.84",,,520,,1
+2/23/18,30007221_020,Various Trans Text Here,483.8,0,"4,505.64",,,522,,1
+2/28/18,30007225_020,Various Trans Text Here,"1,502.89",0,"6,008.53",,,520,,1
+2/28/18,30007225_020,Various Trans Text Here,753.99,0,"6,762.52",,,522,,1
+3/1/18,30007226_020,Various Trans Text Here,0,"1,502.89","5,259.63",,,520,,1
+3/1/18,30007226_020,Various Trans Text Here,0,753.99,"4,505.64",,,522,,1
+3/9/18,30007294_020,Various Trans Text Here,"1,143.01",0,"5,648.65",,,520,,1
+3/9/18,30007294_020,Various Trans Text Here,473.78,0,"6,122.43",,,522,,1
+3/9/18,30007301_020,Various Trans Text Here,"1,143.01",0,"7,265.44",,,520,,1
+3/9/18,30007301_020,Various Trans Text Here,473.78,0,"7,739.22",,,522,,1
+3/9/18,30007306_020,Various Trans Text Here,0,"1,143.01","6,596.21",,,520,,1
+3/9/18,30007306_020,Various Trans Text Here,0,473.78,"6,122.43",,,522,,1
+3/23/18,30007302_020,Various Trans Text Here,"1,067.71",0,"7,190.14",,,520,,1
+3/23/18,30007302_020,Various Trans Text Here,729.94,0,"7,920.08",,,522,,1
+3/31/18,30007309_020,Various Trans Text Here,"2,210.72",0,"10,130.80",,,520,,1
+3/31/18,30007309_020,Various Trans Text Here,"1,203.72",0,"11,334.52",,,522,,1
+4/1/18,30007310_020,Various Trans Text Here,0,"2,210.72","9,123.80",,,520,,1
+4/1/18,30007310_020,Various Trans Text Here,0,"1,203.72","7,920.08",,,522,,1
+4/15/18,,Closing,"21,064.53","13,144.45","7,920.08",,,,,
+Ledger account,59600,ALLOCATION - G & A,,,,,,,,
+1/1/18,,Opening balance,0,0,0,,,,,
+1/31/18,30007176_020,Various Trans Text Here,"10,000.00",0,"10,000.00",,,500,,1
+2/28/18,30007232_020,Various Trans Text Here,"10,000.00",0,"20,000.00",,,500,,1
+3/31/18,30007300_020,Various Trans Text Here,"10,000.00",0,"30,000.00",,,500,,1
+4/15/18,,Closing,"30,000.00",0,"30,000.00",,,,,
+,Total,Period,1/1/18,4/15/18,,,,,,
+Opening,Debit,Credit,Net difference,Closing,,,,,,
+0,"849,436.24","255,047.48","594,388.76","594,388.76",,,,,,
